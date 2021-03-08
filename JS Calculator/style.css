@@ -1,0 +1,51 @@
+.backImg{
+    margin: auto;
+}
+.name{
+    margin: auto;
+    background: rgb(58, 4, 253);
+    width: 500px;
+}
+.container{
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    width: 402px;
+    height: 395px;
+}
+table{
+    margin: auto;
+}
+input{
+    border-radius: 21px;
+    font-size: 34px;
+    padding: 0;
+    border: 3px solid;
+}
+button{
+    border-radius: 21px;
+    font-size: 30px;
+    background: rgb(193, 150, 241);
+    width: 100px;
+    height: 55px;
+}
+h1{
+   color: white; 
+    background-color: rgb(16, 95, 173);
+    width: 450px;
+    border-radius: 21px;
+    text-align: centre;
+    margin: auto;
+    margin-bottom: 3px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+button:hover{
+    background-color: salmon;
+}
+.calculator{
+    display: inline-block;
+    background: rgb(68, 5, 216);
+    padding: 12px;
+    border-radius: 18px;
+}
